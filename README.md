@@ -1,4 +1,4 @@
-# best-system-design-resources
+# The Bes System Design Resources for Interview and Learning
 A collection of best resources to learn System Design, Software architecture, and prepare for System Design Interviews
 
 ## Best System design Courses
