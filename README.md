@@ -1,7 +1,13 @@
 # The Best System Design Resources for Interview and Learning
+Hello guys, if you are preparing for Software Engineer Interviews, or Software developer interview then you may know that how difficult it is to prepare for System Design interviews given its open ended nature and vastness but at the same time you cannot ignore it. In Software Engineering world, if you are applying for a Senior Engineer / Lead / Architect / or a more senior role, [System Design](https://javarevisited.blogspot.com/2022/08/top-5-system-design-interview-courses.html) is the most sought-after skill, and hence one of the most important rounds in the whole process. If you mess this up, nothing else would matter. If you get it right though, you're looking at a raise of at least tens of thousands of dollars annually.
+
+So how do you ace your system design round? Well, here's what I did while preparing for my interviews with Facebook, Google, and Amazon, and it worked out rather well. I did end up creating a checklist for myself which got me through most of my rounds, so if you follow a similar path you should be able to come up with something that works for you as well.
+
 A collection of best resources to learn System Design, Software architecture, and prepare for System Design Interviews
 
 ## Best System design Courses
+Online courses provide the most structured way to prepare for System Design, here are the best online courses you can join to learn System Design and prepare for System Design interviews
+
 1. ZTM - https://bit.ly/3YpWu4q
 2. ByteByteGo - https://bit.ly/3P3eqMN
 1. Grokking the System Design - https://bit.ly/3ckZlsl
@@ -13,11 +19,14 @@ A collection of best resources to learn System Design, Software architecture, an
 8. Meetapro - https://bit.ly/48UAXpJ
 
 ## Best System Design Books
+While online courses are good to start with, books provides the most in-depth knowledge required to crack the System Design interview, here are the top System design books you can read to preapre for interviews
 1. Designing Data-Insensitive Applications - https://amzn.to/3nXKaas
 2. System Design Interview - https://amzn.to/3nU2Mbp
 3. The System Design Interview, 2nd Edition - https://amzn.to/3yYlFjX
 
 ## Best Places to Learn System Design
+These are the online platforms and websites where you can not only learn SYstem design but also practice solving System design questions and you can also find more tutorials and articles related to system design:
+
 1. DesignGuru - https://bit.ly/3pMiO8g
 2. ByteByteGo - https://bit.ly/3P3eqMN
 3. Exponent - https://bit.ly/3cNF0vw
@@ -32,6 +41,21 @@ A collection of best resources to learn System Design, Software architecture, an
 
 
 ## Best System Design Interview Qustions
+These are the concept based System design interview questions which is often asked during telephonic round of interviews. Many of these questiosn were asked to me and I have impressed my interviewer with my answers, which you can also read
+1.   [[What is difference between API Gateway and Load Balancer?](https://javarevisited.substack.com/p/difference-between-api-gateway-and?utm_source=profile&utm_medium=reader2)]\
+2\.  [(What is difference between Reverse Proxy and Forward Proxy?)](https://dev.to/somadevtoo/difference-between-forward-proxy-and-reverse-proxy-in-system-design-54g5)\
+3\.  [(What is difference between Horizontal scaling and vertical scaling?)](https://dev.to/somadevtoo/horizontal-scaling-vs-vertical-scaling-in-system-design-3n09)\
+4\.  [(What is difference between Microservices and Monolithic architecture?)](https://dev.to/somadevtoo/difference-between-microservices-vs-monolithic-applications-for-system-design-interview-2lb5)\
+5\.  [What is difference between vertical and horizontal partitioning ?](https://medium.com/javarevisited/what-is-database-sharding-scaling-your-data-horizontally-1dc12b33193f)\
+6\.  [(What is Rate Limiter? How does it work?)](https://javarevisited.substack.com/p/what-is-rate-limiter-how-does-it?utm_source=profile&utm_medium=reader2)\
+7\.  [(How does Single Sign On (SSO) works?)](https://javarevisited.substack.com/p/how-does-sso-single-sign-on-authentication?utm_source=profile&utm_medium=reader2)\
+8\.  [(How does Apache Kafka works? why it so fast?)](https://javarevisited.substack.com/p/how-does-apache-kafka-works?utm_source=profile&utm_medium=reader2)\
+9\.  [(Differnece between Kafka, ActiveMQ, and RabbitMQ?)](https://javarevisited.substack.com/p/difference-between-kafka-rabbitmq?utm_source=profile&utm_medium=reader2)\
+10\.  [(Difference between JWT, OAuth, and SAML?)](https://javarevisited.substack.com/p/difference-between-jwt-oauth-and?utm_source=profile&utm_medium=reader2)
+
+
+## Best System Design Interview Problems
+Now the holy grail of System design interviews, here are the most popular System design probelems you can practice
 - [Youtube Design](https://bit.ly/3bbNnAN)
 - [URL Shortner](https://bit.ly/3dZoQ2G) 
 - [Real-Time Gaming Leaderboard](https://newsletter.systemdesign.one/leaderboard-system-design/?r=a1ck9)
@@ -152,7 +176,10 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
 -   [Smarkets Blog](https://smarketshq.com/)
 
 # Best System Design Interfview Resources
+These are the additional resources you can see for more in-depth prepration of your interviews:
 - [Top 50 System Design Interview Questions ](https://dev.to/somadevtoo/top-50-system-design-interview-questions-for-2024-5dbk)
-- 
+- [How to Crack System Design Interview in 2024?](https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html)
+- [10 best System Design Interview resources](https://www.linkedin.com/pulse/10-best-system-design-courses-beginners-experienced-2023-soma-sharma/)_
+- [3 Best Mock interview platforms for System design interviews](https://medium.com/javarevisited/3-best-mock-interview-platforms-for-system-design-and-coding-interviews-in-2024-7283f1579b17)
 
 
