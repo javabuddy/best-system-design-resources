@@ -19,7 +19,7 @@ Online courses provide the most structured way to prepare for System Design, her
 8. Meetapro - https://bit.ly/48UAXpJ
 
 ## Best System Design Books
-While online courses are good to start with, books provides the most in-depth knowledge required to crack the System Design interview, here are the top System design books you can read to preapre for interviews
+While online courses are good to start with, books provides the most in-depth knowledge required to crack the System Design interview, here are the top System design books you can read to prepare for interviews
 1. Designing Data-Insensitive Applications - https://amzn.to/3nXKaas
 2. System Design Interview - https://amzn.to/3nU2Mbp
 3. The System Design Interview, 2nd Edition - https://amzn.to/3yYlFjX
