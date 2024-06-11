@@ -176,10 +176,10 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
 -   [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
 -   [Smarkets Blog](https://smarketshq.com/)
 
-# Best System Design Interfview Resources
+# Best System Design Interview Resources
 These are the additional resources you can see for more in-depth prepration of your interviews:
 - [Top 50 System Design Interview Questions ](https://dev.to/somadevtoo/top-50-system-design-interview-questions-for-2024-5dbk)
-- [How to Crack System Design Interview in 2024?](https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html)
+- [How to Crack System Design Interview?](https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html)
 - [10 best System Design Interview resources](https://www.linkedin.com/pulse/10-best-system-design-courses-beginners-experienced-2023-soma-sharma/)_
 - [3 Best Mock interview platforms for System design interviews](https://medium.com/javarevisited/3-best-mock-interview-platforms-for-system-design-and-coding-interviews-in-2024-7283f1579b17)
 - [Top 5 Places to learn System design and Software design](https://javarevisited.blogspot.com/2022/08/top-7-websites-to-learn-system-design.html)
@@ -189,15 +189,15 @@ These are the additional resources you can see for more in-depth prepration of y
 - [100+ System Design Interview Questions and Problems](https://javarevisited.blogspot.com/2024/05/100-system-design-interview-questions.html)
 - [Is Exponent's System Design Course worth it?](https://medium.com/javarevisited/is-exponents-system-design-interview-course-worth-it-review-aad2034d3dd7)
 - [16 Best System Design Interview Resources for Developers](https://medium.com/javarevisited/11-best-resources-to-crack-the-system-design-interview-2cbc77f6fc76)
-- [10 Reasons to Learn System Design in 2024](https://medium.com/javarevisited/10-reasons-to-learn-system-design-in-2024-fa795d301f62)
+- [10 Reasons to Learn System Design](https://medium.com/javarevisited/10-reasons-to-learn-system-design-in-2024-fa795d301f62)
 - [6 Best System Design and API Design Interactive Courses](https://medium.com/javarevisited/top-6-system-design-and-api-design-interview-courses-from-educative-io-e9c149039410)
 - [Top 5 System Design YouTube Channels for Engineers](https://medium.com/javarevisited/top-8-youtube-channels-for-system-design-interview-preparation-970d103ea18d)
-- [10 Best Places to Learn System Design in 2024](https://medium.com/javarevisited/7-best-places-to-learn-system-design-79e2d261f343)
-- [How to Prepare for System Design Interview in 2024](https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html)
+- [10 Best Places to Learn System Design](https://medium.com/javarevisited/7-best-places-to-learn-system-design-79e2d261f343)
+- [How to Prepare for System Design Interview](https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html)
 - [Is ByteByteGo really worth the hype?](https://javarevisited.blogspot.com/2022/12/is-bytebytego-by-alex-xu-worth-it-for.html)
 - [10 Software Design Courses for Developers](https://medium.com/javarevisited/10-best-system-design-courses-for-coding-interviews-949fd029ce65)
 - [5 Best System Design Newsletters for Interviews](https://medium.com/javarevisited/5-best-system-design-publications-and-newsletters-for-software-engineers-in-2024-54b8c8c5f65c)
-- [My Favorite Software Design Courses for 2024](https://javinpaul.medium.com/7-best-software-design-course-for-programmers-and-developers-da3e18e9135)
+- [My Favorite Software Design Courses](https://javinpaul.medium.com/7-best-software-design-course-for-programmers-and-developers-da3e18e9135)
 - [20 System Design Interview Questions for Practice](https://javarevisited.blogspot.com/2022/06/system-design-interview-question-answer.html)
 - [Is Designing Data intensive application book worth reading?](https://medium.com/javarevisited/review-is-designing-data-intensive-applications-by-martin-kleppman-worth-it-b3b7dfa17a5c)
 - [Is Grokking Microservices Pattern course on DesignGuru worth it?](https://medium.com/javarevisited/is-grokking-microservices-design-patterns-course-on-designguru-io-worth-it-a6451b344c9d)
