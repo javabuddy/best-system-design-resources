@@ -5,20 +5,19 @@ So how do you ace your system design round? Well, here's what I did while prepar
 
 A collection of best resources to learn System Design, Software architecture, and prepare for System Design Interviews
 
-## Best System design Courses
+## 🎁 Best System design Courses
 Online courses provide the most structured way to prepare for System Design, here are the best online courses you can join to learn System Design and prepare for System Design interviews
+1. [Zero to Mastery Academy](https://bit.ly/3YpWu4q) 
+2. [ByteByteGo](https://bit.ly/3P3eqMN)
+1. [Grokking the System Design Interview course by DesignGuru.io](https://bit.ly/3ckZlsl)
+3. [Pragmatic Design course on Udemy]( https://bit.ly/3vFNPid)
+4. [Software Design Specialization on Coursera](https://bit.ly/3BxMXzr) 
+5. [Software Architecture 101](https://bit.ly/3pzJCJh)  
+6. [Modern System Design Course on Udemy](https://bit.ly/3OQKX8B) 
+7. [Advanced System Design Course on DesignGuru](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fbundles%3Fbundle_id%3Dbuy-both-system-design-courses)
+8. [Meetapro](https://bit.ly/48UAXpJ) 
 
-1. ZTM - https://bit.ly/3YpWu4q
-2. ByteByteGo - https://bit.ly/3P3eqMN
-1. Grokking the System Design - https://bit.ly/3ckZlsl
-3. Pragmatic Design - https://bit.ly/3vFNPid
-4. Software Design  - https://bit.ly/3BxMXzr
-5. Software Architecture 101 -  https://bit.ly/3pzJCJh
-6. Modern design - https://bit.ly/3OQKX8B
-7. DesignGuru - https://bit.ly/3pMiO8g
-8. Meetapro - https://bit.ly/48UAXpJ
-
-## Best System Design Books
+## ⚡ Best System Design Books
 While online courses are good to start with, books provides the most in-depth knowledge required to crack the System Design interview, here are the top System design books you can read to prepare for interviews
 1. Designing Data-Insensitive Applications - https://amzn.to/3nXKaas
 2. System Design Interview - https://amzn.to/3nU2Mbp
@@ -59,15 +58,15 @@ Now the holy grail of System design interviews, here are the most popular System
 - [Youtube Design](https://bit.ly/3bbNnAN)
 - [URL Shortner](https://bit.ly/3dZoQ2G) 
 - [Real-Time Gaming Leaderboard](https://newsletter.systemdesign.one/leaderboard-system-design/?r=a1ck9)
-- WhatsApp design - https://bit.ly/3SbA9Eu
-- Parking Lot Design - https://bit.ly/3eMUosX
-- Design a LMS - https://bit.ly/3SfwJQe
-- Instagram Design - https://bit.ly/3BqamCL
-- TinyURL Design - https://bit.ly/3S98WSc
--  more - https://bit.ly/3QtyuZl
+- [WhatsApp design](https://bit.ly/3SbA9Eu)- 
+- [Parking Lot Design](https://bit.ly/3eMUosX)
+- [Design a LMS](https://bit.ly/3SfwJQe) 
+- [Instagram Design](https://bit.ly/3BqamCL)
+- [TinyURL Design](https://bit.ly/3S98WSc) 
 - [Real-Time Live Comments](https://newsletter.systemdesign.one/live-comment-system-design/?r=a1ck9)
 - [Distributed Counter](https://newsletter.systemdesign.one/distributed-counter-system-design/?r=a1ck9)
 - [Real Time Presence Platform](https://newsletter.systemdesign.one/real-time-presence-platform-system-design/?r=a1ck9)
+- [50+ Syste Design Problems]( https://bit.ly/3QtyuZl)
 
 
 ## Best System Design Theory and Cocnept based questions
@@ -77,8 +76,10 @@ Now the holy grail of System design interviews, here are the most popular System
 - [API Gateway vs Load Balancer](https://dev.to/somadevtoo/difference-between-api-gateway-and-load-balancer-in-system-design-54dd) 
 - [Horizontal vs Vertical Scaling](https://dev.to/somadevtoo/horizontal-scaling-vs-vertical-scaling-in-system-design-3n09)
 - [Forward proxy vs reverse proxy](https://dev.to/somadevtoo/difference-between-forward-proxy-and-reverse-proxy-in-system-design-54g5).
+- [9 Caching Strategies for System Design Inerviews](https://dev.to/somadevtoo/9-caching-strategies-for-system-design-interviews-369g)
 
 ## Best System Design Case Studies
+Place holders for system design case studies
 
 
 ## Best System Design Tutorials
@@ -181,5 +182,24 @@ These are the additional resources you can see for more in-depth prepration of y
 - [How to Crack System Design Interview in 2024?](https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html)
 - [10 best System Design Interview resources](https://www.linkedin.com/pulse/10-best-system-design-courses-beginners-experienced-2023-soma-sharma/)_
 - [3 Best Mock interview platforms for System design interviews](https://medium.com/javarevisited/3-best-mock-interview-platforms-for-system-design-and-coding-interviews-in-2024-7283f1579b17)
+- [Top 5 Places to learn System design and Software design](https://javarevisited.blogspot.com/2022/08/top-7-websites-to-learn-system-design.html)
+- [Is DesignGuru's System Design Course worth it](https://medium.com/javarevisited/is-designgurus-ios-grokking-system-design-and-coding-interview-courses-worth-it-review-1ed486913fa7)
+- [5 System Design Cheatsheets You can Refer before Interview](https://medium.com/javarevisited/top-3-system-design-cheat-sheets-templates-and-roadmap-for-software-engineering-interviews-53012952db28)
+- [16 best Resources to Prepare for System Design Interview](https://medium.com/javarevisited/11-best-resources-to-crack-the-system-design-interview-2cbc77f6fc76)
+- [100+ System Design Interview Questions and Problems](https://javarevisited.blogspot.com/2024/05/100-system-design-interview-questions.html)
+- [Is Exponent's System Design Course worth it?](https://medium.com/javarevisited/is-exponents-system-design-interview-course-worth-it-review-aad2034d3dd7)
+- [16 Best System Design Interview Resources for Developers](https://medium.com/javarevisited/11-best-resources-to-crack-the-system-design-interview-2cbc77f6fc76)
+- [10 Reasons to Learn System Design in 2024](https://medium.com/javarevisited/10-reasons-to-learn-system-design-in-2024-fa795d301f62)
+- [6 Best System Design and API Design Interactive Courses](https://medium.com/javarevisited/top-6-system-design-and-api-design-interview-courses-from-educative-io-e9c149039410)
+- [Top 5 System Design YouTube Channels for Engineers](https://medium.com/javarevisited/top-8-youtube-channels-for-system-design-interview-preparation-970d103ea18d)
+- [10 Best Places to Learn System Design in 2024](https://medium.com/javarevisited/7-best-places-to-learn-system-design-79e2d261f343)
+- [How to Prepare for System Design Interview in 2024](https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html)
+- [Is ByteByteGo really worth the hype?](https://javarevisited.blogspot.com/2022/12/is-bytebytego-by-alex-xu-worth-it-for.html)
+- [10 Software Design Courses for Developers](https://medium.com/javarevisited/10-best-system-design-courses-for-coding-interviews-949fd029ce65)
+- [5 Best System Design Newsletters for Interviews](https://medium.com/javarevisited/5-best-system-design-publications-and-newsletters-for-software-engineers-in-2024-54b8c8c5f65c)
+- [My Favorite Software Design Courses for 2024](https://javinpaul.medium.com/7-best-software-design-course-for-programmers-and-developers-da3e18e9135)
+- [20 System Design Interview Questions for Practice](https://javarevisited.blogspot.com/2022/06/system-design-interview-question-answer.html)
+- [Is Designing Data intensive application book worth reading?](https://medium.com/javarevisited/review-is-designing-data-intensive-applications-by-martin-kleppman-worth-it-b3b7dfa17a5c)
+- [Is Grokking Microservices Pattern course on DesignGuru worth it?](https://medium.com/javarevisited/is-grokking-microservices-design-patterns-course-on-designguru-io-worth-it-a6451b344c9d)
 
 
