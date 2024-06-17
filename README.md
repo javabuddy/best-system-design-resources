@@ -23,24 +23,31 @@ Online courses provide the most structured way to prepare for System Design, her
 
 ## ⚡ Best System Design Books
 While online courses are good to start with, books provides the most in-depth knowledge required to crack the System Design interview, here are the top System design books you can read to prepare for interviews
-1. Designing Data-Insensitive Applications - https://amzn.to/3nXKaas
-2. System Design Interview - https://amzn.to/3nU2Mbp
-3. The System Design Interview, 2nd Edition - https://amzn.to/3yYlFjX
+1. [Designing Data-Insensitive Applications](https://amzn.to/3nXKaas)
+2. [System Design Interview](https://amzn.to/3nU2Mbp)  
+3. [The System Design Interview, 2nd Edition](https://amzn.to/3yYlFjX)
+4. [System Design Interview --- An Insider's Guide: Volume 2 by Alex Xu and Sahn Lam](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/?tag=javamysqlanta-20)
+5. [Machine Learning System Design Interview by Ali Aminian and Alex Xu](https://www.amazon.com/Machine-Learning-Design-Interview-System/dp/B09YQWX59Z?tag=javamysqlanta-20)
+6. [Hacking the System Design Interview: Real Big Tech Interview Questions and In-depth Solutions by Stanley Chiang](https://www.amazon.com/Hacking-System-Design-Interview-depth/dp/B0B7QHRK5Q?tag=javamysqlanta-20)
+7. [Acing the System Design Interview by Zhiyong Tan](https://www.amazon.com/Acing-System-Design-Interview-Zhiyong/dp/1633439100?tag=javamysqlanta-20)
+8. [The System Design Interview, 2nd Edition by Lewis C. Lin and Shivam P. Patel](https://www.amazon.com/System-Design-Interview-2nd/dp/B09559NJKL?tag=javamysqlanta-20)
+9. [Machine Learning Design Interview: Machine Learning System Design Interview by Khang Pham](https://www.amazon.com/Machine-Learning-Design-Interview-System/dp/B09YQWX59Z?tag=javamysqlanta-20)
+10. [System Design at Google: Engineering Peak for Interviews (System Design Interview)](https://www.amazon.com/System-Design-Google-Engineering-Interviews/dp/B0BC471VZ5?tag=javamysqlanta-20)
+11. [Mastering the System Design Interview: Insider tips for your system design interview from a former Amazon hiring manager](https://www.amazon.com/Mastering-System-Design-Interview-interviews/dp/B09M172JQK?tag=javamysqlanta-20)
 
 ## Best Places to Learn System Design
 These are the online platforms and websites where you can not only learn SYstem design but also practice solving System design questions and you can also find more tutorials and articles related to system design:
-
-1. DesignGuru - https://bit.ly/3pMiO8g
-2. ByteByteGo - https://bit.ly/3P3eqMN
-3. Exponent - https://bit.ly/3cNF0vw
-4. Udemy - https://bit.ly/3vFNPid
-5. Educative - https://bit.ly/3Mnh6UR
-5. System Design Interview – An insider's guide - https://amzn.to/3nU2Mbp
-6. ZTM - https://bit.ly/3YpWu4q
-7. Coursera - https://bit.ly/3BxMXzr
-8. Github - https://bit.ly/3bSaBfC
-9. free system design courses - https://bit.ly/3nqVdfl
-10. DDIA https://amzn.to/3nXKaas
+- [DesignGuru](https://bit.ly/3pMiO8g)
+- [ByteByteGo](https://bit.ly/3P3eqMN)
+- [Exponent](https://bit.ly/3cNF0vw)
+- [Udemy](https://bit.ly/3vFNPid)
+- [Educative](https://bit.ly/3Mnh6UR)
+- [System Design Interview – An insider's guide](https://amzn.to/3nU2Mbp)
+- [ZTM](https://bit.ly/3YpWu4q)
+- [Coursera](https://bit.ly/3BxMXzr)
+- [Github](https://bit.ly/3bSaBfC)
+- [free system design courses](https://bit.ly/3nqVdfl)
+- [DDIA](https://amzn.to/3nXKaas)
 
 
 ## Best System Design Interview Qustions
@@ -54,7 +61,7 @@ These are the concept based System design interview questions which is often ask
 7\.  [(How does Single Sign On (SSO) works?)](https://javarevisited.substack.com/p/how-does-sso-single-sign-on-authentication?utm_source=profile&utm_medium=reader2)\
 8\.  [(How does Apache Kafka works? why it so fast?)](https://javarevisited.substack.com/p/how-does-apache-kafka-works?utm_source=profile&utm_medium=reader2)\
 9\.  [(Differnece between Kafka, ActiveMQ, and RabbitMQ?)](https://javarevisited.substack.com/p/difference-between-kafka-rabbitmq?utm_source=profile&utm_medium=reader2)\
-10\.  [(Difference between JWT, OAuth, and SAML?)](https://javarevisited.substack.com/p/difference-between-jwt-oauth-and?utm_source=profile&utm_medium=reader2)
+10\. [(Difference between JWT, OAuth, and SAML?)](https://javarevisited.substack.com/p/difference-between-jwt-oauth-and?utm_source=profile&utm_medium=reader2)
 
 
 ## Best System Design Interview Problems
@@ -110,11 +117,11 @@ Place holders for system design case studies
 - [Amazon Dynamo](https://d1.awsstatic.com/product-marketing/DynamoDB/451_Reprint_AWS_24FEB2022.pdf)
 
 ## System Design Interview Cheatsheets
-**System Design blueprint** by [ByteByteGo](https://bit.ly/3P3eqMN)
+- System Design blueprint** by [ByteByteGo](https://bit.ly/3P3eqMN)
 ![25d7ba1c-b55d-4307-baee-03f05c376f4b_3888x4096](https://github.com/javabuddy/best-system-design-resources/assets/856999/60977ff5-21c0-4975-8d23-5c1e9b417f87)
 
 
-Next one is this amazing System Design Interview cheat sheet by [*Educative* ](https://www.educative.io/subscription?affiliate_id=5073518643380224) which is definitely worth reading and printing:
+-System Design Interview cheat sheet by [*Educative* ](https://www.educative.io/subscription?affiliate_id=5073518643380224) which is definitely worth reading and printing:
 
 [![mysedv8awnmrf56okt76](https://github.com/javabuddy/best-system-design-resources/assets/856999/16e4b90a-6b8f-4602-89aa-b128b0862842)](https://www.educative.io/courses/grokking-modern-system-design-software-engineers-managers?affiliate_id=5073518643380224)
 
