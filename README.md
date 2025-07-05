@@ -1,5 +1,7 @@
 # 100+ Best System Design Resources for Interview and Learning 
-Hello guys, if you are preparing for Software Engineer Interviews, or Software developer interview then you may know that how difficult it is to prepare for System Design interviews given its open ended nature and vastness but at the same time you cannot ignore it. In Software Engineering world, if you are applying for a Senior Engineer / Lead / Architect / or a more senior role, [System Design](https://javarevisited.blogspot.com/2022/08/top-5-system-design-interview-courses.html) is the most sought-after skill, and hence one of the most important rounds in the whole process. If you mess this up, nothing else would matter. 
+Hello guys, if you are preparing for Software Engineer Interviews, or Software developer interview then you may know that how difficult it is to prepare for System Design interviews given its open ended nature and vastness but at the same time you cannot ignore it. 
+
+In Software Engineering world, if you are applying for a Senior Engineer / Lead / Architect / or a more senior role, [System Design](https://javarevisited.blogspot.com/2022/08/top-5-system-design-interview-courses.html) is the most sought-after skill, and hence one of the most important rounds in the whole process. If you mess this up, nothing else would matter. 
 
 If you get it right though, you're looking at a raise of at least tens of thousands of dollars annuall and in this repository, you will find best System design resources like online courses, books, websites, and system design interview cheat sheets like below from [**Exponent**](https://bit.ly/3cNF0vw) and [ByteByteGo]((https://bit.ly/3P3eqMN)) which you can use to quickly revise the key concepts
 
@@ -37,22 +39,53 @@ While online courses are good to start with, books provides the most in-depth kn
 
 ## Best Places to Learn System Design
 These are the online platforms and websites where you can not only learn SYstem design but also practice solving System design questions and you can also find more tutorials and articles related to system design:
-- [DesignGuru](https://bit.ly/3pMiO8g)
-- [ByteByteGo](https://bit.ly/3P3eqMN)
-- [Exponent](https://bit.ly/3cNF0vw)
-- [Udemy](https://bit.ly/3vFNPid)
-- [Educative](https://bit.ly/3Mnh6UR)
-- [System Design Interview – An insider's guide](https://amzn.to/3nU2Mbp)
-- [ZTM](https://bit.ly/3YpWu4q)
-- [Coursera](https://bit.ly/3BxMXzr)
-- [Github](https://bit.ly/3bSaBfC)
-- [free system design courses](https://bit.ly/3nqVdfl)
-- [DDIA](https://amzn.to/3nXKaas)
+- [DesignGuru](https://bit.ly/3pMiO8g) - Grokking the System Design interview course 
+- [ByteByteGo](https://bit.ly/3P3eqMN) - visual guides to learn System Design
+- [Codemia](https://buff.ly/4dl3eHJ) - Leetcode for System Design
+- [Exponent](https://bit.ly/3cNF0vw) - learn System Design from ex-FAANG engineers
+- [Udemy](https://bit.ly/3vFNPid) - video courses on System Design
+- [Educative](https://bit.ly/3Mnh6UR) - interactive, text-based course on System Design
+- [BugFree.ai](https://www.bugfree.ai/?via=javarevisited) - AI Powered website to both practice and learn System Design
+- [System Design Interview – An insider's guide](https://amzn.to/3nU2Mbp) - best book to learn System Design
+- [System Design School](https://systemdesignschool.io/?linkId=lp_110319&sourceId=javarevisited&tenantId=system-design-school) - another great resource for System design, similar to Algomonster for DSA. 
+- [ZTM](https://bit.ly/3YpWu4q) - System Design bootcamp style course 
+- [Coursera](https://bit.ly/3BxMXzr) - Software Architecture course from University of Alberta
+- [Github](https://bit.ly/3bSaBfC) - best free resource on System Design 
+- [free system design courses](https://bit.ly/3nqVdfl) - collection of free System Design courses 
+- [Designing Data Intensive Applications](https://amzn.to/3nXKaas) - The classic Designing Data Intensive Application one of the most recommended books on software architecture and system design
+- [InterviewKickStart](https://upwardandonwardinc.sjv.io/RG2Aka) - mock interviews by ex FAANG engineers, 
 
+## System Design Basics
+These are essential System Design concepts every programmer or softeware developer should know. It contains software architecture component, how to use them, when to use, tradeoffs and techniques commonly used to improve scalability, fault-tolearance, security and performance of real world production system
+-   [API Gateway vs Load Balancer?](https://buff.ly/3S2bjsr)
+-   [Reverse Proxy vs Forward Proxy?](https://buff.ly/3PEGDME)-
+-   [Horizontal scaling vs vertical scaling?](https://buff.ly/49NvS26)-
+-   [Microservices vs Monolithic architecture?](https://buff.ly/4aC7mS4)-
+-   [Caching Strategies](https://buff.ly/413WZD9)-
+-   [What is Rate Limiter? How does it work?](https://buff.ly/3Lq9jqd)-
+-   [How does Single Sign On (SSO) works?](https://buff.ly/3S61wBG)-
+-   [How does Apache Kafka works? why it so fast?](https://buff.ly/3LnlAf6)-
+-   [Kafka, ActiveMQ, vs RabbitMQ?](https://buff.ly/3LjYSo9)-
+-   [JWT, OAuth, and SAML?](https://buff.ly/3Lpzey4)-
+-   [Database Scaling](https://javarevisited.substack.com/p/system-design-basics-database-scaling)-
+-   [Database Replication vs Sharding](https://javarevisited.substack.com/p/system-design-basics-database-replication)-
+-   [JWT vs Session based authentication](https://javarevisited.substack.com/p/difference-between-jwts-json-web)-
+-    Consistent Hashing-
+-    [Message Queues](https://javarevisited.substack.com/p/system-design-basics-master-message)-
+-    [REST vs gRPC](https://medium.com/javarevisited/difference-between-rest-graphql-and-grpc-10ac365462b8)-
+-    Leader election (Raft, Paxos)-
+-    Circuit breakers-
+-    Failover & Disaster Recovery-
+-    Heartbeats & health checks-   [
+-    CQRS](https://javarevisited.substack.com/p/how-cqrs-pattern-works-in-microservices)-
+-    [Event-driven design](https://javarevisited.substack.com/p/scaling-to-millions-the-secret-behind)-
+-    Microservices vs Monolith-   [Saga pattern](https://javarevisited.substack.com/p/how-does-saga-design-pattern-works)-
+-    Idempotency
+-    [Cache Invalidation Strategies](https://javarevisited.substack.com/p/system-design-basics-cache-invalidation)
 
 ## Best System Design Interview Qustions
 These are the concept based System design interview questions which is often asked during telephonic round of interviews. Many of these questiosn were asked to me and I have impressed my interviewer with my answers, which you can also read
-1.   [[What is difference between API Gateway and Load Balancer?](https://javarevisited.substack.com/p/difference-between-api-gateway-and?utm_source=profile&utm_medium=reader2)]\
+1\.  [[What is difference between API Gateway and Load Balancer?](https://javarevisited.substack.com/p/difference-between-api-gateway-and?utm_source=profile&utm_medium=reader2)]\
 2\.  [(What is difference between Reverse Proxy and Forward Proxy?)](https://dev.to/somadevtoo/difference-between-forward-proxy-and-reverse-proxy-in-system-design-54g5)\
 3\.  [(What is difference between Horizontal scaling and vertical scaling?)](https://dev.to/somadevtoo/horizontal-scaling-vs-vertical-scaling-in-system-design-3n09)\
 4\.  [(What is difference between Microservices and Monolithic architecture?)](https://dev.to/somadevtoo/difference-between-microservices-vs-monolithic-applications-for-system-design-interview-2lb5)\
