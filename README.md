@@ -70,14 +70,14 @@ These are essential System Design concepts every programmer or softeware develop
 -   [Database Scaling](https://javarevisited.substack.com/p/system-design-basics-database-scaling)-
 -   [Database Replication vs Sharding](https://javarevisited.substack.com/p/system-design-basics-database-replication)-
 -   [JWT vs Session based authentication](https://javarevisited.substack.com/p/difference-between-jwts-json-web)-
--    Consistent Hashing-
+-   Consistent Hashing-
 -    [Message Queues](https://javarevisited.substack.com/p/system-design-basics-master-message)-
 -    [REST vs gRPC](https://medium.com/javarevisited/difference-between-rest-graphql-and-grpc-10ac365462b8)-
 -    Leader election (Raft, Paxos)-
 -    Circuit breakers-
 -    Failover & Disaster Recovery-
--    Heartbeats & health checks-   [
--    CQRS](https://javarevisited.substack.com/p/how-cqrs-pattern-works-in-microservices)-
+-    Heartbeats & health checks
+-    [CQRS](https://javarevisited.substack.com/p/how-cqrs-pattern-works-in-microservices)-
 -    [Event-driven design](https://javarevisited.substack.com/p/scaling-to-millions-the-secret-behind)-
 -    Microservices vs Monolith-   [Saga pattern](https://javarevisited.substack.com/p/how-does-saga-design-pattern-works)-
 -    Idempotency
