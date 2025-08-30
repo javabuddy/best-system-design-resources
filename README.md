@@ -13,15 +13,19 @@ A collection of best resources to learn System Design, Software architecture, an
 
 ## 🎁 Best System design Courses
 Online courses provide the most structured way to prepare for System Design, here are the best online courses you can join to learn System Design and prepare for System Design interviews
-1. [Zero to Mastery Academy](https://bit.ly/3YpWu4q) 
-2. [ByteByteGo](https://bit.ly/3P3eqMN)
-1. [Grokking the System Design Interview course by DesignGuru.io](https://bit.ly/3ckZlsl)
-3. [Pragmatic Design course on Udemy]( https://bit.ly/3vFNPid)
-4. [Software Design Specialization on Coursera](https://bit.ly/3BxMXzr) 
-5. [Software Architecture 101](https://bit.ly/3pzJCJh)  
-6. [Modern System Design Course on Udemy](https://bit.ly/3OQKX8B) 
-7. [Advanced System Design Course on DesignGuru](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fbundles%3Fbundle_id%3Dbuy-both-system-design-courses)
-8. [Meetapro](https://bit.ly/48UAXpJ) 
+1. [ByteByteGo](https://bit.ly/3P3eqMN) - visual guides and deep explanation
+2. [Codemia.io](https://buff.ly/4dl3eHJ) - leetcode style system design interview prep
+3. [Exponent](https://bit.ly/3cNF0vw) - free system design mock interviews with peers
+4. [Grokking the System Design Interview course by DesignGuru.io](https://bit.ly/3ckZlsl)
+5. [System Design School](https://systemdesignschool.io/?linkId=lp_110319&sourceId=javarevisited&tenantId=system-design-school) - interactive system deisgn prep from founders of [Algomonster](http://shrsl.com/483tt)
+6. [Pragmatic Design course on Udemy]( https://bit.ly/3vFNPid)
+7. [Grokking Moder System Design Interview on Educative](https://bit.ly/3Mnh6UR) - interactive system deisgn course + AI mock interviews
+8. [Modern System Design Course on Udemy](https://bit.ly/3OQKX8B) 
+9. [Advanced System Design Course on DesignGuru](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fbundles%3Fbundle_id%3Dbuy-both-system-design-courses)
+10. [Zero to Mastery Academy](https://bit.ly/3YpWu4q) 
+11. [Meetapro](https://bit.ly/48UAXpJ)
+12. [Software Design Specialization on Coursera](https://bit.ly/3BxMXzr)
+13. [Software Architecture 101](https://bit.ly/3pzJCJh)  
 
 ## ⚡ Best System Design Books
 While online courses are good to start with, books provides the most in-depth knowledge required to crack the System Design interview, here are the top System design books you can read to prepare for interviews
@@ -111,6 +115,8 @@ Now the holy grail of System design interviews, here are the most popular System
 - [Distributed Counter](https://newsletter.systemdesign.one/distributed-counter-system-design/?r=a1ck9)
 - [Real Time Presence Platform](https://newsletter.systemdesign.one/real-time-presence-platform-system-design/?r=a1ck9)
 - [50+ Syste Design Problems]( https://bit.ly/3QtyuZl)
+- [Spotify Design](https://javarevisited.substack.com/p/system-design-problem-design-spotify)
+- [Rate Limiter](https://javarevisited.substack.com/p/rate-limiting-concepts-algorithms)
 
 
 ## Best System Design Theory and Cocnept based questions
