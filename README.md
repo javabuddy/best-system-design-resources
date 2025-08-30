@@ -129,14 +129,16 @@ Now the holy grail of System design interviews, here are the most popular System
 - [9 Caching Strategies for System Design Inerviews](https://dev.to/somadevtoo/9-caching-strategies-for-system-design-interviews-369g)
 
 ## Best System Design Case Studies
-Place holders for system design case studies
+- [Hello, World!](https://hw.glich.co/)
 
 
 ## Best System Design Tutorials
+- [How Pinterest uses LLMs to make your Search Results more Relevant?](https://hw.glich.co/p/how-pinterest-uses-llms-to-make-your-search-results-more-relevant)
 - [How to Scale an App to 10 Million Users on AWS](https://newsletter.systemdesign.one/p/aws-scale?r=a1ck9)
 - [This Is How Airbnb Adopted HTTP Streaming to Save 84 Million USD in Costs](https://newsletter.systemdesign.one/p/what-is-critical-rendering-path?r=a1ck9)
 - [Amazon Prime Video Microservices Top Failure](https://newsletter.systemdesign.one/p/prime-video-microservices?r=a1ck9)
 - [How Amazon S3 Achieves 99.999999999% Durability](https://newsletter.systemdesign.one/p/amazon-s3-durability?r=a1ck9)
+- [How Uber Eats Scaled Search to Handle Billions of Daily Queries](https://hw.glich.co/p/how-uber-eats-scaled-search-to-handle-billions-of-daily-queries)
 
 ## Best System Design Fundamentals
 - [Back of the Envelope](https://newsletter.systemdesign.one/back-of-the-envelope/?r=a1ck9)
@@ -191,6 +193,7 @@ Renowned for its specialized courses like [**System Design Interview Course**](h
 ## Best Engineering Blogs You can Follow for System Design
 Depending on where you are interviewing, go through the company blog. VERY USEFUL IN INTERVIEWS! It really helps if you have an idea of the architecture, as the questions asked will generally be of that domain and your prior knowledge will help out here.
 
+-   [Hello, World!](https://hw.glich.co/)
 -   [Airbnb Engineering](http://nerds.airbnb.com/)
 -   [Amazon](https://developer.amazon.com/blogs)
 -   [Amazon AWS](https://aws.amazon.com/blogs/)
