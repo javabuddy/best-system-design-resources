@@ -18,9 +18,9 @@ Online courses provide the most structured way to prepare for System Design, her
 3. [Exponent](https://bit.ly/3cNF0vw) - free system design mock interviews with peers
 4. [Grokking the System Design Interview course by DesignGuru.io](https://bit.ly/3ckZlsl)
 5. [System Design School](https://systemdesignschool.io/?linkId=lp_110319&sourceId=javarevisited&tenantId=system-design-school) - interactive system deisgn prep from founders of [Algomonster](http://shrsl.com/483tt)
-6. [Pragmatic Design course on Udemy]( https://bit.ly/3vFNPid)
+6. [System Design Masterclass course on Udemy]( https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsystem-design-masterclass%2F%3FcouponCode%3DKEEPLEARNING)
 7. [Grokking Moder System Design Interview on Educative](https://bit.ly/3Mnh6UR) - interactive system deisgn course + AI mock interviews
-8. [Modern System Design Course on Udemy](https://bit.ly/3OQKX8B) 
+8. [Modern System Design Course on Udemy](https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsystem-design-interview-prep%2F%3FcouponCode%3DKEEPLEARNING) 
 9. [Advanced System Design Course on DesignGuru](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fbundles%3Fbundle_id%3Dbuy-both-system-design-courses)
 10. [Zero to Mastery Academy](https://bit.ly/3YpWu4q) 
 11. [Meetapro](https://bit.ly/48UAXpJ)
@@ -47,7 +47,7 @@ These are the online platforms and websites where you can not only learn SYstem 
 - [ByteByteGo](https://bit.ly/3P3eqMN) - visual guides to learn System Design
 - [Codemia](https://buff.ly/4dl3eHJ) - Leetcode for System Design
 - [Exponent](https://bit.ly/3cNF0vw) - learn System Design from ex-FAANG engineers
-- [Udemy](https://bit.ly/3vFNPid) - video courses on System Design
+- [Udemy](https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2F) - video courses on System Design
 - [Educative](https://bit.ly/3Mnh6UR) - interactive, text-based course on System Design
 - [BugFree.ai](https://www.bugfree.ai/?via=javarevisited) - AI Powered website to both practice and learn System Design
 - [System Design Interview – An insider's guide](https://amzn.to/3nU2Mbp) - best book to learn System Design
