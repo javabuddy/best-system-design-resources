@@ -18,9 +18,9 @@ Online courses provide the most structured way to prepare for System Design, her
 3. [The Onsite](https://theonsite.dev) - timed system design interview practice with interactive diagramming and AI feedback
 4. [Exponent](https://bit.ly/3cNF0vw) - free system design mock interviews with peers
 5. [Grokking the System Design Interview course by DesignGuru.io](https://bit.ly/3ckZlsl)
-6. [System Design School](https://systemdesignschool.io/?linkId=lp_110319&sourceId=javarevisited&tenantId=system-design-school) - interactive system deisgn prep from founders of [Algomonster](http://shrsl.com/483tt)
+6. [System Design School](https://systemdesignschool.io/?linkId=lp_110319&sourceId=javarevisited&tenantId=system-design-school) - interactive system design prep from founders of [Algomonster](http://shrsl.com/483tt)
 7. [System Design Masterclass course on Udemy]( https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsystem-design-masterclass%2F%3FcouponCode%3DKEEPLEARNING)
-8. [Grokking Moder System Design Interview on Educative](https://bit.ly/3Mnh6UR) - interactive system deisgn course + AI mock interviews
+8. [Grokking Modern System Design Interview on Educative](https://bit.ly/3Mnh6UR) - interactive system design course + AI mock interviews
 9. [Modern System Design Course on Udemy](https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsystem-design-interview-prep%2F%3FcouponCode%3DKEEPLEARNING) 
 10. [Advanced System Design Course on DesignGuru](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fbundles%3Fbundle_id%3Dbuy-both-system-design-courses)
 11. [Zero to Mastery Academy](https://bit.ly/3YpWu4q) 
