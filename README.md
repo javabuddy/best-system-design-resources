@@ -103,7 +103,8 @@ These are the concept based System design interview questions which is often ask
 7\.  [(How does Single Sign On (SSO) works?)](https://javarevisited.substack.com/p/how-does-sso-single-sign-on-authentication?utm_source=profile&utm_medium=reader2)\
 8\.  [(How does Apache Kafka works? why it so fast?)](https://javarevisited.substack.com/p/how-does-apache-kafka-works?utm_source=profile&utm_medium=reader2)\
 9\.  [(Differnece between Kafka, ActiveMQ, and RabbitMQ?)](https://javarevisited.substack.com/p/difference-between-kafka-rabbitmq?utm_source=profile&utm_medium=reader2)\
-10\. [(Difference between JWT, OAuth, and SAML?)](https://javarevisited.substack.com/p/difference-between-jwt-oauth-and?utm_source=profile&utm_medium=reader2)
+10\. [(Difference between JWT, OAuth, and SAML?)](https://javarevisited.substack.com/p/difference-between-jwt-oauth-and?utm_source=profile&utm_medium=reader2)\
+11\. [(System design interview questions with prompts and clarifying questions)](https://practick.io/system-design-interview-questions)
 
 
 ## Best System Design Interview Problems
