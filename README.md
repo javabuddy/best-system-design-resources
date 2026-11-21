@@ -59,6 +59,7 @@ These are the online platforms and websites where you can not only learn SYstem 
 - [free system design courses](https://bit.ly/3nqVdfl) - collection of free System Design courses 
 - [Designing Data Intensive Applications](https://amzn.to/3nXKaas) - The classic Designing Data Intensive Application one of the most recommended books on software architecture and system design
 - [InterviewKickStart](https://upwardandonwardinc.sjv.io/RG2Aka) - mock interviews by ex FAANG engineers, 
+- [InterviewLegend](https://interviewlegend.com) - system design interviews broken down company by company, from first-hand reports
 
 ## System Design Basics
 These are essential System Design concepts every programmer or softeware developer should know. It contains software architecture component, how to use them, when to use, tradeoffs and techniques commonly used to improve scalability, fault-tolearance, security and performance of real world production system
