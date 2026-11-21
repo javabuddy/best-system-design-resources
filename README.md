@@ -60,6 +60,7 @@ These are the online platforms and websites where you can not only learn SYstem 
 - [Designing Data Intensive Applications](https://amzn.to/3nXKaas) - The classic Designing Data Intensive Application one of the most recommended books on software architecture and system design
 - [InterviewKickStart](https://upwardandonwardinc.sjv.io/RG2Aka) - mock interviews by ex FAANG engineers, 
 - [InterviewLegend](https://interviewlegend.com) - system design interviews broken down company by company, from first-hand reports
+- [Systemlands](https://systemlands.quest/) - An Immersive way to learn system design 
 
 ## System Design Basics
 These are essential System Design concepts every programmer or softeware developer should know. It contains software architecture component, how to use them, when to use, tradeoffs and techniques commonly used to improve scalability, fault-tolearance, security and performance of real world production system
@@ -105,6 +106,22 @@ These are the concept based System design interview questions which is often ask
 8\.  [(How does Apache Kafka works? why it so fast?)](https://javarevisited.substack.com/p/how-does-apache-kafka-works?utm_source=profile&utm_medium=reader2)\
 9\.  [(Differnece between Kafka, ActiveMQ, and RabbitMQ?)](https://javarevisited.substack.com/p/difference-between-kafka-rabbitmq?utm_source=profile&utm_medium=reader2)\
 10\. [(Difference between JWT, OAuth, and SAML?)](https://javarevisited.substack.com/p/difference-between-jwt-oauth-and?utm_source=profile&utm_medium=reader2)
+15. [Message Queues](https://javarevisited.substack.com/p/system-design-basics-master-message)
+16. [REST vs gRPC](https://medium.com/javarevisited/difference-between-rest-graphql-and-grpc-10ac365462b8)
+17. Leader election (Raft, Paxos)
+18. [Circuit breakers](https://javarevisited.substack.com/p/top-10-microservices-design-patterns)
+19. Failover & Disaster Recovery
+20. Heartbeats & health checks
+21. [CQRS](https://javarevisited.substack.com/p/how-cqrs-pattern-works-in-microservices)
+22. [Event-driven design](https://javarevisited.substack.com/p/scaling-to-millions-the-secret-behind)
+23. [Microservices vs Monolith](https://javarevisited.substack.com/p/monolith-vs-microservices-the-1m)
+24. [Saga pattern](https://javarevisited.substack.com/p/how-does-saga-design-pattern-works)
+25. [Idempotency](https://javarevisited.substack.com/p/the-magic-behind-one-click-checkout)
+26. [OAuth](https://javarevisited.substack.com/p/system-design-basics-oauth-20)
+27. [Proxies](https://javarevisited.substack.com/p/system-design-basics-how-proxies)
+28. [Authentication](https://javarevisited.substack.com/p/system-design-basics-authentication)
+29. [Single Point Failure](https://javarevisited.substack.com/p/what-is-single-point-of-failure-spof)
+30. [Distributed Caching](https://javarevisited.substack.com/p/how-would-you-design-a-distributed)
 
 
 ## Best System Design Interview Problems
@@ -238,6 +255,8 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
 # Best System Design Interview Resources
 These are the additional resources you can see for more in-depth prepration of your interviews:
 - [Top 50 System Design Interview Questions ](https://dev.to/somadevtoo/top-50-system-design-interview-questions-for-2024-5dbk)
+- [I Tried 30+ System Design Courses: Here Are My Top 5 Recommendations for 2026 ](https://medium.com/javarevisited/i-tried-30-system-design-courses-here-are-my-top-5-recommendations-for-2025-3c4971206a39)
+- [I Found LeetCode for Software Design and It’s Awesome](https://medium.com/javarevisited/i-found-leetcode-for-software-design-and-its-awesome-5f636b911dfe)
 - [How to Crack System Design Interview?](https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html)
 - [10 best System Design Interview resources](https://www.linkedin.com/pulse/10-best-system-design-courses-beginners-experienced-2023-soma-sharma/)_
 - [3 Best Mock interview platforms for System design interviews](https://medium.com/javarevisited/3-best-mock-interview-platforms-for-system-design-and-coding-interviews-in-2024-7283f1579b17)
@@ -246,6 +265,7 @@ These are the additional resources you can see for more in-depth prepration of y
 - [5 System Design Cheatsheets You can Refer before Interview](https://medium.com/javarevisited/top-3-system-design-cheat-sheets-templates-and-roadmap-for-software-engineering-interviews-53012952db28)
 - [16 best Resources to Prepare for System Design Interview](https://medium.com/javarevisited/11-best-resources-to-crack-the-system-design-interview-2cbc77f6fc76)
 - [100+ System Design Interview Questions and Problems](https://javarevisited.blogspot.com/2024/05/100-system-design-interview-questions.html)
+- [I found Leetcode for System Design, and it’s Awesome](https://medium.com/javarevisited/i-found-the-leetcode-for-system-design-and-its-awesome-07bb2425b953)
 - [Is Exponent's System Design Course worth it?](https://medium.com/javarevisited/is-exponents-system-design-interview-course-worth-it-review-aad2034d3dd7)
 - [16 Best System Design Interview Resources for Developers](https://medium.com/javarevisited/11-best-resources-to-crack-the-system-design-interview-2cbc77f6fc76)
 - [10 Reasons to Learn System Design](https://medium.com/javarevisited/10-reasons-to-learn-system-design-in-2024-fa795d301f62)
