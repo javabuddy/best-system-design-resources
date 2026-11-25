@@ -150,6 +150,7 @@ Now the holy grail of System design interviews, here are the most popular System
 - [Horizontal vs Vertical Scaling](https://dev.to/somadevtoo/horizontal-scaling-vs-vertical-scaling-in-system-design-3n09)
 - [Forward proxy vs reverse proxy](https://dev.to/somadevtoo/difference-between-forward-proxy-and-reverse-proxy-in-system-design-54g5).
 - [9 Caching Strategies for System Design Inerviews](https://dev.to/somadevtoo/9-caching-strategies-for-system-design-interviews-369g)
+- [Mentaro System Design Interview Questions](https://github.com/mrZedov/mentaro-interview-questions/tree/main/system-design) - 17 practice questions with answers covering system design concepts and architectural trade-offs.
 
 ## Best System Design Case Studies
 - [Hello, World!](https://hw.glich.co/)
