@@ -11,22 +11,46 @@ So how do you ace your system design round? Well, here's what I did while prepar
 
 A collection of best resources to learn System Design, Software architecture, and prepare for System Design Interviews, including [**System Design Practice Tests**](https://www.udemy.com/course/system-design-interview-mastery-concepts-mock-tests-tradeoffs/?couponCode=LAUNCH)
 
+## Best BLACK FRIDAY and CYBER MONDAY Deals for System Design Interview Preparation (2026)
+Black Friday is one of the best times to invest in your software engineering interview preparation. If you are preparing for system design interviews at companies like Google, Amazon, Meta, Microsoft, or Netflix, these deals can help you access valuable courses, mock interviews, architecture resources, and lifetime learning platforms at discounted prices.
+
+I've shortlisted the most relevant Black Friday offers for system design, software architecture, coding interviews, and advanced engineering skills.
+
+Note: Discounts and promotional terms are based on advertised offers. Some promotions may have eligibility requirements or expiration dates. Always confirm the final price and included features on the checkout page.
+
+| Platform | Black Friday Discount | Why Grab It Now? | Deal Link |
+|---|---|---|---|
+| ByteByteGo | 50% OFF Lifetime | Rare Black Friday sale! Get lifetime access to system design, coding patterns, AI system design, and interview prep. | [Grab ByteByteGo Lifetime Deal](https://bytebytego.com/pricing?fpr=javarevisited) |
+| Codemia | 60% OFF Lifetime | Save big on lifetime access to hands-on system design interview practice. | [Get Codemia Lifetime](https://codemia.io/pricing?via=javarevisited) |
+| Aced.io (Formerly Exponent) | 70% OFF Annual | Prepare for FAANG interviews with mock interviews, system design, behavioral prep, and more. | [Grab Exponent Deal](https://www.tryexponent.com/upgrade/?ref=javinpaul2) |
+| Educative Premium Plus | 55% OFF | Access Grokking courses, interactive coding, system design, and AI-powered interview preparation. | [Get Educative Premium](https://www.educative.io/subscription?affiliate_id=5073518643380224) |
+| DesignGurus | 55% OFF All Courses Bundle | Get the complete collection of system design and coding interview courses at a huge discount. | [Grab All Courses Bundle](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fbundles%3Fbundle_id%3Dall-courses) |
+| AlgoMonster | 50% OFF Lifetime | Stop struggling with algorithms. Learn coding interview patterns and prepare for top tech companies. | [Grab Lifetime Deal](https://shareasale.com/r.cfm?b=1836542&u=880419&m=114505&urllink=https%3A%2F%2Falgo%2Emonster%2Fsubscribe&afftrack=) |
+| Udemy | Up to 80% OFF | Buy top-rated programming, system design, cloud, AI, and interview preparation courses for less. | [Explore Udemy Sale](https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2F) |
+| Zero To Mastery | 66% OFF | Get access to career-focused coding, AI, web development, and software engineering courses. | [Grab ZTM Deal](https://academy.zerotomastery.io/a/aff_n13k1nmc/external?affcode=441520_zytgk2dn) |
+| Bugfree.ai | 25% OFF | Practice AI-powered coding interviews and sharpen your problem-solving skills. | [Grab Bugfree Deal](https://www.bugfree.ai/?via=javarevisited) |
+| Fenzo.ai | Black Friday Deal | Explore AI-powered tools to improve your productivity and workflow. | [Explore Fenzo.ai](https://fenzo.ai/?ref=YdO7) |
+| CodingGopher | 40% OFF | System Design and Coding Interview courses for software engineering career. | [Grab CodingGopher Deal](https://codinggopher.com/?ref=javarevisited) |
+| Java Revisited Newsletter | 50% OFF | Get Java interview questions, programming tips, tutorials, and curated developer resources. | [Subscribe for 50% OFF](https://javarevisited.substack.com/subscribe?coupon=c1a71c58) |
+| Head First Software Architecture | Book Deal | Learn architectural thinking, design principles, and software architecture concepts through an approachable book. | [Get the Book](https://www.amazon.com/dp/1098134354?tag=javamysqlanta-20) |
+
 ## 🎁 Best System design Courses
 Online courses provide the most structured way to prepare for System Design, here are the best online courses you can join to learn System Design and prepare for System Design interviews
 1. [ByteByteGo](https://bit.ly/3P3eqMN) - visual guides and deep explanation
 2. [Codemia.io](https://buff.ly/4dl3eHJ) - leetcode style system design interview prep
 3. [Exponent](https://bit.ly/3cNF0vw) - free system design mock interviews with peers
 4. [Grokking the System Design Interview course by DesignGuru.io](https://bit.ly/3ckZlsl)
-5. [Bugfree.ai](https://www.bugfree.ai/?via=javarevisited) - System Design practice question and AI based mock interviews 
-6. [System Design School](https://systemdesignschool.io/?linkId=lp_110319&sourceId=javarevisited&tenantId=system-design-school) - interactive system deisgn prep from founders of [Algomonster](http://shrsl.com/483tt)
-7. [System Design Masterclass course on Udemy]( https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsystem-design-masterclass%2F%3FcouponCode%3DKEEPLEARNING)
-8. [Grokking Moder System Design Interview on Educative](https://bit.ly/3Mnh6UR) - interactive system deisgn course + AI mock interviews
-9. [Modern System Design Course on Udemy](https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsystem-design-interview-prep%2F%3FcouponCode%3DKEEPLEARNING) 
-10. [Advanced System Design Course on DesignGuru](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fbundles%3Fbundle_id%3Dbuy-both-system-design-courses)
-11. [Zero to Mastery Academy](https://bit.ly/3YpWu4q) 
-12. [Meetapro](https://bit.ly/48UAXpJ)
-13. [Software Design Specialization on Coursera](https://bit.ly/3BxMXzr)
-14. [Software Architecture 101](https://bit.ly/3pzJCJh)  
+5. [Bugfree.ai](https://www.bugfree.ai/?via=javarevisited) - System Design practice question and AI based mock interviews
+6. [CodingGopher](https://codinggopher.com/?ref=javarevisited) - System Design and Coding Interview courses 
+7. [System Design School](https://systemdesignschool.io/?linkId=lp_110319&sourceId=javarevisited&tenantId=system-design-school) - interactive system deisgn prep from founders of [Algomonster](http://shrsl.com/483tt)
+8. [System Design Masterclass course on Udemy]( https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsystem-design-masterclass%2F%3FcouponCode%3DKEEPLEARNING)
+9. [Grokking Moder System Design Interview on Educative](https://bit.ly/3Mnh6UR) - interactive system deisgn course + AI mock interviews
+10. [Modern System Design Course on Udemy](https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsystem-design-interview-prep%2F%3FcouponCode%3DKEEPLEARNING) 
+11. [Advanced System Design Course on DesignGuru](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fbundles%3Fbundle_id%3Dbuy-both-system-design-courses)
+12. [Zero to Mastery Academy](https://bit.ly/3YpWu4q) 
+13. [Meetapro](https://bit.ly/48UAXpJ)
+14. [Software Design Specialization on Coursera](https://bit.ly/3BxMXzr)
+15. [Software Architecture 101](https://bit.ly/3pzJCJh)  
 
 ## ⚡ Best System Design Books
 While online courses are good to start with, books provides the most in-depth knowledge required to crack the System Design interview, here are the top System design books you can read to prepare for interviews
@@ -51,6 +75,7 @@ These are the online platforms and websites where you can not only learn SYstem 
 - [Udemy](https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2F) - video courses on System Design
 - [Educative](https://bit.ly/3Mnh6UR) - interactive, text-based course on System Design
 - [BugFree.ai](https://www.bugfree.ai/?via=javarevisited) - AI Powered website to both practice and learn System Design
+- [CodingGopher](https://codinggopher.com/?ref=javarevisited) - System Design and Coding Interview courses 
 - [System Design Interview – An insider's guide](https://amzn.to/3nU2Mbp) - best book to learn System Design
 - [System Design School](https://systemdesignschool.io/?linkId=lp_110319&sourceId=javarevisited&tenantId=system-design-school) - another great resource for System design, similar to Algomonster for DSA. 
 - [ZTM](https://bit.ly/3YpWu4q) - System Design bootcamp style course 
